@@ -1,0 +1,5 @@
+# Proyecto 1
+## Paso 1
+Creamos el repositorio en Bash y generamos el README.md para el proyecto. Añadimos el README al repositorio con el comando git add README.md y como commit añadimos "Creacion del repositorio y del README".
+## Paso 2
+Posteriormete creamos un repositorio vacío en mi perfil de GitHub y lo vinculamos al repositorio vacío de GitHub. Las modificaciones adicionales para este README para el paso dos se añaden como git commit -am "Paso 2"
