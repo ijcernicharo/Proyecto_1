@@ -9,3 +9,5 @@ Generamos el script proyecto1.py y añadimos al commit as "Paso 3, generacion de
 Generacion de rama1 y modificacion del README y del script
 ## Paso...paso?
 Modificacion de master
+## Paso perdido, igual es el 6 o 7
+Generacion rama 2, merge con rama 1
