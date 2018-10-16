@@ -11,3 +11,5 @@ Generacion de rama1 y modificacion del README y del script
 Modificacion de master
 ## Paso perdido, igual es el 6 o 7
 Generacion rama 2, merge con rama 1
+## Paso final
+Hemos resuelto el conflicto y hemos añadido una captura del network del proyecto
