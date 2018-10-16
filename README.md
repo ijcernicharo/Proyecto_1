@@ -1,3 +1,4 @@
+email: ivan.cernicharo@gmail.com
 # Proyecto 1
 ## Paso 1
 Creamos el repositorio en Bash y generamos el README.md para el proyecto. Añadimos el README al repositorio con el comando git add README.md y como commit añadimos "Creacion del repositorio y del README".
@@ -13,3 +14,4 @@ Modificacion de master
 Generacion rama 2, merge con rama 1
 ## Paso final
 Hemos resuelto el conflicto y hemos añadido una captura del network del proyecto
+![graph](Proyecto1.png "Grafo")
