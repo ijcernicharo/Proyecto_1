@@ -5,3 +5,5 @@ Creamos el repositorio en Bash y generamos el README.md para el proyecto. Añadi
 Posteriormete creamos un repositorio vacío en mi perfil de GitHub y lo vinculamos al repositorio vacío de GitHub. Las modificaciones adicionales para este README para el paso dos se añaden como git commit -am "Paso 2"
 ## Paso 3
 Generamos el script proyecto1.py y añadimos al commit as "Paso 3, generacion de script python"
+## Paso 4
+Generacion de rama1 y modificacion del README y del script
