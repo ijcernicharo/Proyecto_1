@@ -15,3 +15,4 @@ Generacion rama 2, merge con rama 1
 ## Paso final
 Hemos resuelto el conflicto y hemos añadido una captura del network del proyecto
 ![graph](Proyecto1.png "Grafo")
+### Created by Ivan Cernicharo
